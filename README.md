@@ -4,7 +4,11 @@ This project is a demonstration of my journey in learning Unity and its various 
 
 ---
 
+## Game Preview
+Watch a preview of the game [here](https://youtu.be/gCIBulQ_Vxg).
+
 ## Project Overview
+
 
 This project serves as a **learning tool** where I focused on understanding and implementing:
 
