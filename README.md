@@ -2,7 +2,7 @@
 
 This project is a demonstration of my journey in learning Unity and its various components. It represents my exploration of game development concepts, including scripting, design patterns, built-in Unity functionalities, and multiple aspects of game mechanics.
 
-<img src="/screenshots.jpg" alt="Home Screen" width="200" style="display: inline-block; margin-right: 20px;"/>
+<img src="./screenshots.JPG" alt="Preview Image" width="200" style="display: inline-block; margin-right: 20px;"/>
 
 ---
 
